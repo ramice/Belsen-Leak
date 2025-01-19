@@ -2,6 +2,8 @@
 
 This repository contains a list of IP addresses from Bosnia and Herzegovina that were affected by the Belsen Group FortiGate 15K data breach. The purpose of this repository is to raise awareness, provide information to the cybersecurity community, and assist in preventing future breaches by analyzing exposed infrastructure.
 
+https://github.com/ramice/Belsen-Leak/blob/main/Bosnia_IP
+
 ## Overview
 
 The Belsen Group FortiGate 15K data breach has exposed around 15 thousands of IP addresses, including a subset located in Bosnia and Herzegovina. 
